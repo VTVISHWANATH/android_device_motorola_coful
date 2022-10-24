@@ -16,7 +16,7 @@ It was released on 29th November 2021
 | Shipped Android version | 11                                                          |
 | Storage                 | 64GB / 128GB                                                |
 | MicroSD                 | Up to 256 GB                                                |
-| Battery                 | Non-removable, Li-Po 5010 mAh                               |
+| Battery                 | Non-removable, Li-Poly 5010 mAh                             |
 | Dimensions              | 161.19 x 74.6 x 8.49 mm                                     |
 | Display                 | 2400 x 1080 (20:9), 6.43 inch / 163 mm, 60 Hz               |
 | Rear Camera 1           | 13 MP, f/1.8, 28.2 mm, 1/2.5", 0.8µm, PDAF                  |
