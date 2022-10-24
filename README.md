@@ -7,20 +7,21 @@ It was released on 29th November 2021
 
 | Device                  | Motorola Moto G31                                           |
 | ----------------------- | :---------------------------------------------------------- |
-| SoC                     | MediaTek Helio G85 (12nm) MT6769V/CZ                        |
+| SoC                     | MediaTek Helio G85 (12nm), MT6769V/CZ                       |
 | CPU                     | 2 x 2.0 GHz Cortex-A75 & 6 x 1.8 GHz Cortex-A55             |
 | GPU                     | Mali-G52 MC2                                                |
-| Memory                  | 3GB / 4GB / 6GB                                             |
+| Vendor                  | ARM                                                         |
+| Vulkan Support          | Yes                                                         |
+| Memory                  | 4GB / 6GB, LPDDR4X 1800 MHz, Dual Channel                   |
 | Shipped Android version | 11                                                          |
 | Storage                 | 64GB / 128GB                                                |
 | MicroSD                 | Up to 256 GB                                                |
-| Battery                 | Non-removable Li-Po 5020 mAh                                |
-| Dimensions              | 162.3 x 77.2 x 8.9 mm                                       |
-| Display                 | 2340 x 1080 (19:5:9), 6.53 inch                             |
-| Rear Camera 1           | 48 MP, f/1.8, 26mm (wide), 1/2.0", 0.8µm, PDAF              |
+| Battery                 | Non-removable, Li-Po 5010 mAh                               |
+| Dimensions              | 161.19 x 74.6 x 8.49 mm                                     |
+| Display                 | 2400 x 1080 (20:9), 6.43 inch / 163 mm, 60 Hz               |
+| Rear Camera 1           | 13 MP, f/1.8, 28.2 mm, 1/2.5", 0.8µm, PDAF                  |
 | Rear Camera 2           | 8 MP, f/2.2, 118˚ (ultrawide), 1/4.0", 1.12µm               |
 | Rear Camera 3           | 2 MP, f/2.4, (macro), AF                                    |
-| Rear Camera 4           | 2 MP, f/2.4, (depth)                                        |
 | Front Camera            | 13 MP, f/2.3, 29mm (standard), 1/3.1", 1.12µm               |
 
 ## Device picture
