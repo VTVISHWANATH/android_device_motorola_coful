@@ -22,7 +22,7 @@
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
-#define BTM_DEF_LOCAL_NAME "Motorola Moto G82 5G"
+#define BTM_DEF_LOCAL_NAME "Motorola Moto G31"
 // Disables read remote device feature
 #define MAX_ACL_CONNECTIONS   16
 #define MAX_L2CAP_CHANNELS    16

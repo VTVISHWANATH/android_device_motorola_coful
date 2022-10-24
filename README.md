@@ -1,19 +1,28 @@
-Device configuration for Motorola Moto G82 5G
+Device configuration for Motorola Moto G31
 ===============================================
 
-It was released in May 2022
+It was released on 29th November 2021
 
 ## Device specifications
-Basic    | Spec Sheet
---------:|:----------------------
-SoC      | Snapdragon 695 Qualcomm SM6375
-CPU      | Octa-core (2x 2.2 GHz Kryo 660 Gold + 6x 1.7 GHz Kryo 660 Silver)
-GPU      | Adreno 619
-Memory   | 128GB 6GB RAM, 256GB 6GB RAM
-Shipped Android version | Android 12, MyUX
-Battery  | LiPo 5000mAh, non-removable
-Display  | pOLED, 120Hz, 6.6 inch, 1080 x 2400 pixels, 20:9 ratio
+
+| Device                  | Motorola Moto G31                                           |
+| ----------------------- | :---------------------------------------------------------- |
+| SoC                     | MediaTek Helio G85 (12nm) MT6769V/CZ                        |
+| CPU                     | 2 x 2.0 GHz Cortex-A75 & 6 x 1.8 GHz Cortex-A55             |
+| GPU                     | Mali-G52 MC2                                                |
+| Memory                  | 3GB / 4GB / 6GB                                             |
+| Shipped Android version | 11                                                          |
+| Storage                 | 64GB / 128GB                                                |
+| MicroSD                 | Up to 256 GB                                                |
+| Battery                 | Non-removable Li-Po 5020 mAh                                |
+| Dimensions              | 162.3 x 77.2 x 8.9 mm                                       |
+| Display                 | 2340 x 1080 (19:5:9), 6.53 inch                             |
+| Rear Camera 1           | 48 MP, f/1.8, 26mm (wide), 1/2.0", 0.8µm, PDAF              |
+| Rear Camera 2           | 8 MP, f/2.2, 118˚ (ultrawide), 1/4.0", 1.12µm               |
+| Rear Camera 3           | 2 MP, f/2.4, (macro), AF                                    |
+| Rear Camera 4           | 2 MP, f/2.4, (depth)                                        |
+| Front Camera            | 13 MP, f/2.3, 29mm (standard), 1/3.1", 1.12µm               |
 
 ## Device picture
 
-![Moto G82 5G](https://epicgeek.com.br/wp-content/uploads/2022/06/Motorola-Moto-G82-5G-600x600.png "Moto G82 5G")
+![Moto G31](https://m.media-amazon.com/images/I/41YWXaewoGL.jpg "Moto G31")
