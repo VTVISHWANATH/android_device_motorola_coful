@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/motorola/rhodep
+DEVICE_PATH := device/motorola/coful
 
 # Architecture
 TARGET_ARCH := arm64

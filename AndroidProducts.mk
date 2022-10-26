@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolutionx_retin.mk
+    $(LOCAL_DIR)/evolutionx_coful.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolutionx_retin-user \
-    evolutionx_retin-userdebug \
-    evolutionx_retin-eng
+    evolutionx_coful-user \
+    evolutionx_coful-userdebug \
+    evolutionx_coful-eng
