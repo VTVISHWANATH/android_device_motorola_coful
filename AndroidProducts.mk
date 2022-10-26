@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_rhodep.mk
+    $(LOCAL_DIR)/evolutionx_retin.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_rhodep-user \
-    lineage_rhodep-userdebug \
-    lineage_rhodep-eng
+    evolutionx_retin-user \
+    evolutionx_retin-userdebug \
+    evolutionx_retin-eng
