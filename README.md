@@ -24,7 +24,7 @@ It was released on 18th November 2021
 | Rear Camera 3           | 2 MP, f/2.4, (macro)                                        |
 | Front Camera            | 13 MP, f/2.2, (wide), 1.12µm                                |
 
-[For more info click here] (https://www.gsmarena.com/motorola_moto_g31-11225.php)
+For more info click here: https://www.gsmarena.com/motorola_moto_g31-11225.php
 
 
 ## Device picture
