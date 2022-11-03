@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=rhodep
+DEVICE=coful
 VENDOR=motorola
 
 # Load extract_utils and do some sanity checks
